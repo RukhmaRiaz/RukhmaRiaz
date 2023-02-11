@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-### 🔭 I’m currently working on Website related PTSD
+### 🔭 I’m currently working on Website related to Post Traumatic Stress Disorder (PTSD)
 ### 🌱 I’m currently learning Django
 <br><br>
 ![Djanjo](https://img.shields.io/badge/django-%230175C2.svg?style=for-the-badge&logo=djanjo&logoColor=white)
